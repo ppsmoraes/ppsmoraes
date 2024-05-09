@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Pablo Moraes. 👋
+
+[![CodeWars](https://www.codewars.com/users/ppsmoraes/badges/large)](https://www.codewars.com/users/ppsmoraes)
 
 <!--
 **ppsmoraes/ppsmoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
